@@ -7,6 +7,7 @@
 - https://nbviewer.org/
 - https://www.showmeai.tech/tutorials/80
 - https://www.lanqiao.cn/courses/1656
+- 仓库百度网盘：https://pan.baidu.com/s/1EVCp64nZzo6RbB7lxuNllw&pwd=1234#list/path=%2F（密码1234）
 
 
 
